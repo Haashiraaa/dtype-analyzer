@@ -1,4 +1,4 @@
-# mem_analyzer.py
+# numpy_memory_optimizer.py
 # A small, nerdy tool to check how much memory your NumPy arrays are actually eating.
 
 import numpy as np
